@@ -1,0 +1,11 @@
+venv/
+.venv/
+*.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.vscode/
+# *.csv
+.DS_Store
